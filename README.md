@@ -1,2 +1,2 @@
 # certificates
-Repository to hold my Professional Certificates, Awards &amp; Course Completion Certificates
+Repository to hold my Professional Certificates, Trainings, Awards &amp; Course Completion Certificates
